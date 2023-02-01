@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "27112048735",
+    "firebase_url": "https://test-890ac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "test-890ac",
+    "storage_bucket": "test-890ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27112048735:android:9049e46dde179e985933ea",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27112048735-hs7frkd9hga51896vvadsolu3cp6c2r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYGH7C-RfgH36q9nroQJ7-bUZ-cwK7hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27112048735-hs7frkd9hga51896vvadsolu3cp6c2r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27112048735:android:69890051b7e12cd15933ea",
+        "android_client_info": {
+          "package_name": "com.example.rgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27112048735-hs7frkd9hga51896vvadsolu3cp6c2r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYGH7C-RfgH36q9nroQJ7-bUZ-cwK7hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27112048735-hs7frkd9hga51896vvadsolu3cp6c2r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27112048735:android:16d95a33ce0b48395933ea",
+        "android_client_info": {
+          "package_name": "com.example.tsaryk_rgr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27112048735-hs7frkd9hga51896vvadsolu3cp6c2r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrYGH7C-RfgH36q9nroQJ7-bUZ-cwK7hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27112048735-hs7frkd9hga51896vvadsolu3cp6c2r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
